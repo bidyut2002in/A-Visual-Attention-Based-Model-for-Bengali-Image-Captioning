@@ -1,7 +1,7 @@
 # A-Visual-Attention-Based-Model-for-Bengali-Image-Captioning
 
 ### Publication
-Das, Bidyut., et al. A Visual Attention Based Model for Bengali Image Captioning. Neural Comput & Applic (2023). Springer [Link to The Paper](https://doi.org/10.1007/s42979-023-01671-x)
+Das, Bidyut et al. A Visual Attention-Based Model for Bengali Image Captioning. SN COMPUT. SCI. 4, 208 (2023). Springer [Link to The Paper](https://doi.org/10.1007/s42979-023-01671-x)
 
 ### Dataset
 We have used two datasets Bangla Lekha Image Captions (BLIC) [1] and Bangla Natural Language Image to Text (BNLIT) [2] to train the captioning model in Bengali.
